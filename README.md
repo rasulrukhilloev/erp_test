@@ -6,6 +6,7 @@ RUN in dev mode: npm run dev
 
 DOWNLOAD and RUN mysql image:</br>
 docker run --name some-mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=secret -d mysql
+
 CONNECT TO MYSQL: sudo docker exec -it [container-id] mysql -u root -pselec
 
 

@@ -59,13 +59,5 @@ API:
 
 После выхода одного из устройств, остальные устройства одного пользователя должны продолжать работать.
 
-Download and Run Mysql via docker image:
-
-docker run --name some-mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=secret -d mysql
-
-Connect to Mysql via terminal:
-
-sudo docker exec -it [container-id] mysql -u root -p
-
 
 

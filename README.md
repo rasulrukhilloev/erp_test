@@ -1,6 +1,7 @@
 Doing below task WITHOUT ORM with this stack: Express(v5) and Mysql as db
 
-RUN FIRST: npm run setupDB
+RUN FIRST: npm run setupDB 
+
 RUN in dev mode: npm run dev
 
 DOWNLOAD and RUN mysql image:</br>
